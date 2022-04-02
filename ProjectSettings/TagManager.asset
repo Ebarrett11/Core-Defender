@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gold
+  - BasicProjectile
+  - FireProjectile
+  - Enemy
+  - Health
+  - Core
+  - Cheerio
+  - Attack
+  - Gravitron
+  - GravitronBurn
+  - IceProjectile
+  - Phantom
+  - Boulder
+  - Plasma
+  - MegaFB
+  - EnemyArrow
+  - water
+  - Special Gold
+  - Spawner
+  - turrain
+  - Magic Trigger
+  - lava
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Cheerio
+  - No Effector
+  - No Projectile
+  - Projectile
+  - gold
+  - gold push
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Particles
+    uniqueID: 113708275
+    locked: 0
