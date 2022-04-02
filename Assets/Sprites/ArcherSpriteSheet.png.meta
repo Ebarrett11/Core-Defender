@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 672a9cdfedbd64441868217fd8d610f5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ArcherSpriteSheet_0
+    21300002: ArcherSpriteSheet_1
+    21300004: ArcherSpriteSheet_2
+    21300006: ArcherSpriteSheet_3
+    21300008: ArcherSpriteSheet_4
+    21300010: ArcherSpriteSheet_5
+    21300012: ArcherSpriteSheet_6
+    21300014: ArcherSpriteSheet_7
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArcherSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1435
+        width: 909
+        height: 1132
+      alignment: 9
+      pivot: {x: 0.55276144, y: 0.41775686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a784bfbc1dbbe4cb739d3a13194292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1403
+        width: 898
+        height: 1137
+      alignment: 9
+      pivot: {x: 0.55340767, y: 0.41563728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896385d7baf0fd94da05933c2253104d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1363
+        width: 917
+        height: 1140
+      alignment: 9
+      pivot: {x: 0.5461482, y: 0.42080882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e300f71c1a7344dafce8acf06ac290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 1391
+        width: 907
+        height: 1104
+      alignment: 9
+      pivot: {x: 0.55287784, y: 0.39778304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7083f7cf0c34cdb4187e7fd067d2861f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 909
+        height: 1192
+      alignment: 9
+      pivot: {x: 0.5589688, y: 0.407696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c91133a249d41f408a9efa115c2fdd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 0
+        width: 910
+        height: 1254
+      alignment: 9
+      pivot: {x: 0.54030263, y: 0.3807632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c95ae7a2a35f449bb8e758307c8f67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1
+        width: 922
+        height: 1294
+      alignment: 9
+      pivot: {x: 0.5489576, y: 0.37354797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc3be1755f707f46b8963c5a1000718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 31
+        width: 1034
+        height: 1119
+      alignment: 9
+      pivot: {x: 0.46725872, y: 0.4142803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa7b4cfe8e37be44821db5b0d6408a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c102ff2ca37b0bf41b4575f4e55646af
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
