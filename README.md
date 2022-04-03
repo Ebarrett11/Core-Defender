@@ -27,5 +27,5 @@ abilities that they use to defeat these enemies.
 - Teleporter: instantly teleports player from one part of the arena to another
 - Water: Tiles of arena where movement is sloweed (affects enemies and players)
 - Large coin: coin worth 1000, protected by Spectrals
-- Lave: dangerous tiles that will instantly kill the player 
+- Lava: dangerous tiles that will instantly kill the player 
 ![](https://github.com/Ebarrett11/Gif_Hosting/blob/master/clips.gif)
