@@ -1,4 +1,5 @@
 ![](https://github.com/Ebarrett11/Gif_Hosting/blob/master/clips.gif)
+
 *Not actual frame rate
 ## Functionality
 The user plays as a wizard who must protect the core and their self from enemies. The game borrows elements from a top down shooter and zombie defense games. 
