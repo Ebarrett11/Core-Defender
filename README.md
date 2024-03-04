@@ -1,6 +1,4 @@
-# Top-Down-Shooter-Magik-
-This repository was cloned from a private repository inside the organization "WGCompsci" <br />
-Utilized Unity 2018.2.0f2 and Visual Studio Code 
+![](https://github.com/Ebarrett11/Gif_Hosting/blob/master/clips.gif)
 ## Functionality
 The user plays as a wizard who must protect the core and their self from enemies. The game borrows elements from a top down shooter and zombie defense games. 
 The player defends the core from succesive waves of enemies that become more challenging as the the game progresses. The user can unlock 4 different magic 
@@ -28,4 +26,4 @@ abilities that they use to defeat these enemies.
 - Water: Tiles of arena where movement is sloweed (affects enemies and players)
 - Large coin: coin worth 1000, protected by Spectrals
 - Lava: dangerous tiles that will instantly kill the player 
-![](https://github.com/Ebarrett11/Gif_Hosting/blob/master/clips.gif)
+
