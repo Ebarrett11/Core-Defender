@@ -1,5 +1,16 @@
-<div>Loading...</div>
-<img src="https://github.com/Ebarrett11/Gif_Hosting/blob/master/clips.gif" alt="GIF">
+<div id="loading-text">Loading...</div>
+<img id="gif" src="https://github.com/Ebarrett11/Gif_Hosting/blob/master/clips.gif" alt="GIF" style="display: none;">
+
+<script>
+    // Get the GIF element
+    var gif = document.getElementById('gif');
+
+    // Hide the loading text and show the GIF once it's loaded
+    gif.onload = function() {
+        document.getElementById('loading-text').style.display = 'none';
+        gif.style.display = 'inline';
+    };
+</script>
 
 *Gif is not actual frame rate
 ## Functionality
