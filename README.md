@@ -1,6 +1,6 @@
 ![](https://github.com/Ebarrett11/Gif_Hosting/blob/master/clips.gif)
 
-*Not actual frame rate
+*Gif is not actual frame rate
 ## Functionality
 The user plays as a wizard who must protect the core and their self from enemies. The game borrows elements from top down shooters and zombie defense games. 
 The player defends the core from succesive waves of enemies that become more challenging as the the game progresses. The user can unlock 4 different magic 
