@@ -1,4 +1,4 @@
-![Loading Gif...](https://github.com/Ebarrett11/Gif_Hosting/blob/master/clips.gif)
+![Loading...](https://github.com/Ebarrett11/Gif_Hosting/blob/master/clips.gif)
 
 *Gif is not actual frame rate
 ## Functionality
