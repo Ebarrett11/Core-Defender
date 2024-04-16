@@ -1,4 +1,5 @@
-![Loading...](https://github.com/Ebarrett11/Gif_Hosting/blob/master/clips.gif)
+<div>Loading...</div>
+<img src="https://github.com/Ebarrett11/Gif_Hosting/blob/master/clips.gif" alt="GIF">
 
 *Gif is not actual frame rate
 ## Functionality
